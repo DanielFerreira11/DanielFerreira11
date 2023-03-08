@@ -1,10 +1,10 @@
 <h1 align="center">
     <p> 
-    Hi, I'm Daniel Ferreira Alves <img src="https://media.tenor.com/cI3eAVLXj48AAAAC/hello-world.gif" width="100"> 
+    Hi, I'm Daniel Ferreira Alves <img src="https://media.tenor.com/o6aj3W2I7rMAAAAM/dev.gif" width="100"> 
     </p>
 </h1>
 
-## <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="150">
+## <img src="https://static.wixstatic.com/media/4575f6_61244fa042204b16b95dfaba7bf935cc~mv2.gif" width="150">
 
 <img width="40%" align="right" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
