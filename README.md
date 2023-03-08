@@ -30,7 +30,7 @@
 
 ## <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="32"> Contact me
 <div>
-  <a href="www.linkedin.com/in/daniel-ferreira-alves" target="_blank"><img height="40" width="50" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png"></a>
+  <a href="https://www.linkedin.com/in/daniel-ferreira-alves/" target="_blank"><img height="40" width="50" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png"></a>
   <a href="mailto:daniel.alves@ccc.ufcg.edu.br" target="_blank"><img height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png"></a>
 </div>
 
