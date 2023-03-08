@@ -1,7 +1,8 @@
 <h1 align="center">
     <p> 
-    Hi, I'm Daniel Ferreira Alves <img src="https://media.tenor.com/o6aj3W2I7rMAAAAM/dev.gif" width="100"> 
+    Hello there! I'm Daniel Ferreira Alves  
     </p>
+    <img align="middle" src="https://www.pinoylinux.org/wp-content/uploads/2016/03/hello-world.gif" padding-top="10" width="120">
 </h1>
 
 ## <img src="https://static.wixstatic.com/media/4575f6_61244fa042204b16b95dfaba7bf935cc~mv2.gif" width="150">
@@ -9,7 +10,7 @@
 <img width="40%" align="right" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 - 💻 Computer Science Student at UFCG
-- 👨‍🎓 Computer technician by IFPB
+- 👨‍🎓 Computer Technician by IFPB
 - 🧩 Backend Developer
 - 👨🏽‍🏫 English Teacher as a Second Language
 
