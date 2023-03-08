@@ -34,4 +34,11 @@
   <a href="mailto:daniel.alves@ccc.ufcg.edu.br" target="_blank"><img height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png"></a>
 </div>
 
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Stats
+
+<div>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=DanielFerreira11&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=en">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielFerreira11&layout=compact&langs_count=16&theme=tokyonight&locale=en">
+</div>
+
 
