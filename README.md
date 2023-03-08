@@ -1,12 +1,12 @@
 <h1 align="center">
     <p> 
-    Hi, I'm Daniel Ferreira Alves <img src="https://media.tenor.com/o6aj3W2I7rMAAAAM/dev.gif" width="30"> 
+    Hi, I'm Daniel Ferreira Alves <img src="https://media.tenor.com/cI3eAVLXj48AAAAC/hello-world.gif" width="100"> 
     </p>
 </h1>
 
-## <img src="https://raw.githubusercontent.com/gist/UddeshJain/90646446c86e45c494d6e69bfc3005f1/raw/b15bee8a8b85f8740795b92c1878ab8ed9ec2204/About%20Me.gif" width="50">
+## <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="150">
 
-<img width="40%" align="right" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+<img width="40%" align="right" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 - 💻 Computer Science Student at UFCG
 - 👨‍🎓 Computer technician by IFPB
