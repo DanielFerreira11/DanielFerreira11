@@ -11,7 +11,7 @@
 
 - 💻 Computer Science Student at UFCG
 - 👨‍🎓 Computer Technician by IFPB
-- 🧑🏽‍💻 Backend Developer
+- 🧑🏽‍💻 Frontend Developer
 - 👨🏽‍🏫 English Teacher as a Second Language
 
 ## Skills
