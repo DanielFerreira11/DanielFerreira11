@@ -9,7 +9,7 @@
 
 <img width="40%" align="right" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
-- 💻 Computer Science Student at UFCG
+- 💻 Computer Science Graduate from UFCG
 - 👨‍🎓 Computer Technician by IFPB
 - 🧑🏽‍💻 Frontend Developer
 - 👨🏽‍🏫 English Teacher as a Second Language
